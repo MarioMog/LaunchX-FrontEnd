@@ -1,4 +1,4 @@
-# LaunchX-FrontEnd
+# LaunchX-FrontEnd Introduction
 
 ES: En este repositorio se encuentran las practicas correspondiente a la introducción de FrontEnd LaunchX, estas practicas son referentes a la ingenieria en software y al diseño.
 
