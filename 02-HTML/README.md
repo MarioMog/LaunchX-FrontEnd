@@ -1,6 +1,6 @@
 # LaunchX-FrontEnd HTML
 
-ES: En esta práctica desarrollé y desplegué una página web para una pasteleria.\n
+ES: En esta práctica desarrollé y desplegué una página web para una pasteleria.<br>
 Aqui está el link para acceder a la pagina [Sweet desert](https://mariomog.github.io/sweet-desert/)
 
 
