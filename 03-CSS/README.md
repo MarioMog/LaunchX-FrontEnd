@@ -1,3 +1,6 @@
-# CSS practice
+# LaunchX-FrontEnd HTML
 
-Here is the link to [Vaccination](https://mariomog.github.io/landing-vaccination/)
+ES: En esta práctica clona una página de vacunación junto con sus estilos.<br>
+EN: In this practice I had to clone a vaccination page along with its styles.
+
+Link: [Vaccination](https://mariomog.github.io/landing-vaccination/)
