@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* Basic styling */
 * {
   box-sizing: border-box;
@@ -167,3 +168,174 @@ button:hover {
 .default {
   background-color: #2a1a1f;
 }
+=======
+/* Basic styling */
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+body {
+  background-color: #dddddd;
+  height: 100vh;
+  width: 100vw;
+  color: #000;
+}
+.center {
+  display: flex;
+  justify-content: center;
+}
+.container {
+  width: 45vw;
+  height: 45vw;
+  padding: 2vw;
+  margin: auto;
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+input[type="text"] {
+  width: 70%;
+  font-size: 2vw;
+  padding: 1vh 2vw;
+  border: none;
+  border-bottom: 2px solid;
+}
+button {
+  width: 25%;
+  font-size: 2vw;
+  padding: 10px 5px;
+  float: right;
+  border-radius: 10px;
+  border: none;
+  background-color: #307afa;
+  color: #ffffff;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #275fc0;
+}
+.pokedex {
+  background-image: url("../svg/pokedex.svg");
+  width: 40vw;
+  height: 40vw;
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: relative;
+  background-position: center;
+}
+.sprite {
+  width: 30%;
+  height: 21%;
+  position: absolute;
+  top: 35%;
+  left: 10%;
+  background-image: url("./assets/imgs/silhouette.png");
+  justify-content: center;
+}
+.sprite img {
+  height: 80%;
+  display: block;
+  margin: auto;
+}
+.stats {
+  width: 32%;
+  height: 35%;
+  position: absolute;
+  top: 36%;
+  right: 8%;
+  padding: 0 10px 10px 10px;
+  font-size: 1vw;
+}
+.stat-container {
+  font-weight: bold;
+  margin-bottom: 1px;
+}
+.stat-container button {
+  width: 100%;
+  font-size: 1vw;
+  padding: 0.5vw 0.5vw;
+  margin: 2px 0;
+  border-radius: 10px;
+  border: none;
+  background-color: #307afa;
+  color: #ffffff;
+  cursor: pointer;
+}
+.stat-container button:hover {
+  background-color: #275fc0;
+}
+.p1 {
+  display: block;
+}
+.p2 {
+  display: none;
+}
+.right-align {
+  float: right;
+}
+.name {
+  font-size: 1vw;
+}
+.type {
+  width: fit-content;
+  padding: 2px 5px;
+  border-radius: 10px;
+  margin-right: 1px;
+  float: left;
+  color: #ffff;
+}
+.electric {
+  background-color: #ffea70;
+}
+.normal {
+  background-color: #b09398;
+}
+.fire {
+  background-color: #ff675c;
+}
+.water {
+  background-color: #0596c7;
+}
+.ice {
+  background-color: #afeafd;
+}
+.rock {
+  background-color: #999799;
+}
+.flying {
+  background-color: #7ae7c7;
+}
+.grass {
+  background-color: #4a9681;
+}
+.psychic {
+  background-color: #ffc6d9;
+}
+.ghost {
+  background-color: #561d25;
+}
+.bug {
+  background-color: #a2faa3;
+}
+.poison {
+  background-color: #795663;
+}
+.ground {
+  background-color: #d2b074;
+}
+.dragon {
+  background-color: #da627d;
+}
+.steel {
+  background-color: #1d8a99;
+}
+.fighting {
+  background-color: #2f2f2f;
+}
+.fairy {
+  background-color: #f592a8;
+}
+.default {
+  background-color: #2a1a1f;
+}
+>>>>>>> e86388e91a01cd04cc22c59fd41cb3b063cc4780
