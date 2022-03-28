@@ -7,4 +7,5 @@ EN: This repository is intended to contain all resolved katas from the FrontEnd 
 [02-HTML](https://github.com/MarioMog/LaunchX-FrontEnd/tree/main/02-HTML)<br> 
 [03-CSS](https://github.com/MarioMog/LaunchX-FrontEnd/tree/main/03-CSS)<br> 
 [04-JS](https://github.com/MarioMog/LaunchX-FrontEnd/tree/main/04-JS)<br> 
+[05-VUE](https://github.com/MarioMog/LaunchX-FrontEnd/tree/main/05-VUE)<br> 
 
